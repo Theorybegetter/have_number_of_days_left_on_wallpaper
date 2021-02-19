@@ -1,0 +1,21 @@
+Open task scheduler
+	Create a new task
+	Name it
+	Tap on Actions
+		create a new action
+		Open comand prompt and run 
+			python -c "import sys; print(sys.executable)"
+		copy the output(path)
+		enter Program/Script with the copied path
+		enter the argument with the name of the python file(main.py if you chose to copy my code)
+		enter Start in: with the path of the directory in which the python file(main.py) exists	
+		create the action
+	next
+	Tap on Triggers 
+		create a new trigger
+		set it to recur once daily and specify the time(00:00:00)
+		make sure you check the box that says 'Run whether user is logged on or not'
+		save the trigger
+	Run the task
+
+	
