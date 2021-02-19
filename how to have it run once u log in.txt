@@ -1,0 +1,6 @@
+C: --> Users --> (the user you use (oops lol)) --> AppData --> Roaming --> Microsoft --> Windows --> Start menu --> Programs --> Start up
+
+Inside Start up...copy and paste the main.bat file that you created earlier
+
+this is enough to have your code automatically run whenever you log in.
+(if this is confusing, you could always create a new task at Task scheduler and have your task(run the code) done at start up)
